@@ -319,4 +319,7 @@
          booted.  -->
     <integer name="config_stableDeviceDisplayWidth">1264</integer>
     <integer name="config_stableDeviceDisplayHeight">2780</integer>
+
+    <!-- Whether device has physical tri state switch -->
+    <bool name="config_hasAlertSlider">true</bool>
 </resources>
